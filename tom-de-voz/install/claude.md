@@ -17,14 +17,14 @@ Acesse **Settings → Habilidades → +** e preencha os três campos:
 
 **Nome da skill:**
 ```
-Tom de Voz — Cent
+tom-de-voz-cent
 ```
 
 ---
 
 **Descrição:**
 ```
-Especialista em redação de marca da Cent. Use quando precisar criar, criticar ou ajustar textos para garantir alinhamento com o tom de voz da marca. Exemplos: "crie uma legenda para o Instagram", "esse texto está no tom da Cent?", "ajuste esse email para soar mais humano".
+Especialista em redação de marca da Cent. Use para criar, criticar ou ajustar textos alinhados ao tom de voz da marca. Exemplos: crie uma legenda para o Instagram, esse texto está no tom da Cent, ajuste esse email para soar mais humano.
 ```
 
 ---
@@ -49,6 +49,6 @@ Clique em **Criar**.
 Com o Ruler MCP ativo na conversa, descreva sua tarefa normalmente. A skill é ativada automaticamente quando o Claude identifica que a tarefa envolve criação, crítica ou ajuste de texto da marca Cent.
 
 Exemplos de prompts:
-- "Crie uma legenda para o Instagram da Cent anunciando o lançamento de uma nova feature"
-- "Esse texto está no tom da Cent? [cole o texto]"
-- "Ajuste esse email para soar menos formal e mais próximo"
+- Crie uma legenda para o Instagram da Cent anunciando o lançamento de uma nova feature
+- Esse texto está no tom da Cent? [cole o texto]
+- Ajuste esse email para soar menos formal e mais próximo

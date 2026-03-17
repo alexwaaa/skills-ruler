@@ -12,9 +12,9 @@ Cada skill especializa você em uma tarefa específica de criação, análise ou
 |---|---|
 | Criar, criticar ou ajustar um texto com o tom da marca | [tom-de-voz](./tom-de-voz/SKILL.md) |
 | Gerar, criticar ou ajustar um prompt de imagem alinhado à marca | [geracao-imagem](./geracao-imagem/SKILL.md) |
-| Avaliar um layout com score de aderência à marca | [layout-check](./layout-check/SKILL.md) *(em breve)* |
-| Mapear fluxos de nurture e comunicação por persona | [consumer](./consumer/SKILL.md) *(em breve)* |
-| Validar um material publicitário contra regulações de fintech | [compliance](./compliance/SKILL.md) *(em breve)* |
+| Avaliar um layout com score de aderência à marca | layout-check *(em breve)* |
+| Mapear fluxos de nurture e comunicação por persona | consumer *(em breve)* |
+| Validar um material publicitário contra regulações de fintech | compliance *(em breve)* |
 
 ## Como usar este índice
 

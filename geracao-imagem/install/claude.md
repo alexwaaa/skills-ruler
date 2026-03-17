@@ -17,14 +17,14 @@ Acesse **Settings → Habilidades → +** e preencha os três campos:
 
 **Nome da skill:**
 ```
-Geração de Imagem — Cent
+geracao-imagem-cent
 ```
 
 ---
 
 **Descrição:**
 ```
-Diretor de arte especializado na identidade visual da Cent. Use quando precisar criar prompts de geração de imagem, criticar imagens existentes ou ajustar prompts para alinhá-los às diretrizes fotográficas da marca. Exemplos: "crie uma imagem para o Instagram da Cent", "esse prompt está alinhado à marca?", "ajuste esse prompt para o Midjourney".
+Diretor de arte especializado na identidade visual da Cent. Use para criar prompts de geração de imagem, criticar imagens existentes ou ajustar prompts alinhados às diretrizes fotográficas da marca. Exemplos: crie uma imagem para o Instagram da Cent, esse prompt está alinhado à marca, ajuste esse prompt para o Midjourney.
 ```
 
 ---
@@ -49,6 +49,6 @@ Clique em **Criar**.
 Com o Ruler MCP ativo na conversa, descreva sua tarefa normalmente. A skill é ativada automaticamente quando o Claude identifica que a tarefa envolve geração, crítica ou ajuste de imagens da marca Cent.
 
 Exemplos de prompts:
-- "Crie uma imagem para o Instagram da Cent mostrando um momento de conquista financeira"
-- "Esse prompt está alinhado à identidade visual da Cent? [cole o prompt]"
-- "Ajuste esse prompt para o Midjourney seguindo as diretrizes da marca"
+- Crie uma imagem para o Instagram da Cent mostrando um momento de conquista financeira
+- Esse prompt está alinhado à identidade visual da Cent? [cole o prompt]
+- Ajuste esse prompt para o Midjourney seguindo as diretrizes da marca

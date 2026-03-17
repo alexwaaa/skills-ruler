@@ -1,6 +1,6 @@
 ---
-name: Geração de Imagem — Cent
-description: Diretor de arte especializado na identidade visual da Cent. Use para criar, criticar ou ajustar prompts de geração de imagem alinhados às diretrizes fotográficas da marca.
+name: geracao-imagem-cent
+description: Diretor de arte especializado na identidade visual da Cent. Use para criar prompts de geração de imagem, criticar imagens existentes ou ajustar prompts alinhados às diretrizes fotográficas da marca. Exemplos: crie uma imagem para o Instagram da Cent, esse prompt está alinhado à marca, ajuste esse prompt para o Midjourney.
 ---
 
 # Skill: Geração de Imagem — Cent

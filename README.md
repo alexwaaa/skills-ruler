@@ -4,7 +4,7 @@ Skills de marca da Cent para agentes de IA. Cada skill especializa um agente em 
 
 ## Como funciona
 
-Cada skill é uma **habilidade casca** instalada no seu agente de IA. A casca é leve — ela define o papel do agente e aponta para as instruções completas neste repositório. Quando a skill evolui, todos os agentes já consomem a versão atualizada automaticamente, sem reinstalação.
+Cada skill é instalada diretamente no seu agente de IA preenchendo três campos: nome, descrição e instruções. As instruções contêm o passo a passo completo que orienta o agente na execução da tarefa.
 
 ## Pré-requisito
 
@@ -31,6 +31,8 @@ Cada skill tem uma pasta `/install` com instruções específicas para cada plat
 
 ```
 [skill]/
+├── SKILL.md        ← instruções completas da skill
+├── EXEMPLOS.md     ← casos de uso práticos
 └── install/
     ├── claude.md       ← Claude (claude.ai)
     ├── chatgpt.md      ← ChatGPT
@@ -40,4 +42,4 @@ Cada skill tem uma pasta `/install` com instruções específicas para cada plat
     └── figma.md        ← Figma
 ```
 
-Acesse a pasta da skill desejada e siga o guia da sua plataforma.
+Acesse a pasta da skill desejada, abra o arquivo da sua plataforma em `/install` e siga o passo a passo.
