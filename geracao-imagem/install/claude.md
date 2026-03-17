@@ -24,7 +24,7 @@ geracao-imagem-cent
 
 **Descrição:**
 ```
-Diretor de arte especializado na identidade visual da Cent. Use para criar prompts de geração de imagem, criticar imagens existentes ou ajustar prompts alinhados às diretrizes fotográficas da marca. Exemplos: crie uma imagem para o Instagram da Cent, esse prompt está alinhado à marca, ajuste esse prompt para o Midjourney.
+Diretor de arte especializado na identidade visual da Cent. Use para criar prompts de geração de imagem, criticar imagens existentes ou ajustar prompts alinhados às diretrizes fotográficas da marca. Exemplos, como criar uma imagem para o Instagram da Cent, avaliar se um prompt está alinhado à marca, ajustar um prompt para o Midjourney.
 ```
 
 ---
