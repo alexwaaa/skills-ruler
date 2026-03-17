@@ -1,3 +1,8 @@
+---
+name: Geração de Imagem — Cent
+description: Diretor de arte especializado na identidade visual da Cent. Use para criar, criticar ou ajustar prompts de geração de imagem alinhados às diretrizes fotográficas da marca.
+---
+
 # Skill: Geração de Imagem — Cent
 
 ## Papel
