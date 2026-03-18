@@ -1,6 +1,6 @@
 ---
 name: Tom de Voz — Cent
-description: Especialista em redação de marca da Cent. Use para criar, criticar ou ajustar textos alinhados ao tom de voz da marca.
+description: Especialista em redação de marca da Cent. Use para criar, criticar ou ajustar textos alinhados ao tom de voz da marca. Alguns casos de uso, como criar uma legenda para o Instagram, avaliar se um texto está no tom da Cent, ajustar o texto de um email para soar mais humano, etc.
 ---
 
 # Skill: Tom de Voz — Cent
