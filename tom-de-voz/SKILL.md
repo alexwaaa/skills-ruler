@@ -1,6 +1,6 @@
 ---
-name: Tom de Voz — Cent
-description: Especialista em redação de marca da Cent. Use para criar, criticar ou ajustar textos alinhados ao tom de voz da marca. Alguns casos de uso, como criar uma legenda para o Instagram, avaliar se um texto está no tom da Cent, ajustar o texto de um email para soar mais humano, etc.
+name: tom-de-voz-cent
+description: Especialista em redação de marca da Cent. Use **sempre** que o usuário quiser criar, revisar, ajustar ou criticar qualquer texto no contexto da Cent — legendas de Instagram, emails, push notifications, copies de app, apresentações, posts. Acione também quando o usuário disser "está no tom?", "deixa mais humano", "parece muito corporativo", "adapta para a Cent" ou qualquer variação de pedido de revisão ou criação de copy de marca.
 ---
 
 # Skill: Tom de Voz — Cent
@@ -73,14 +73,13 @@ Use o conteúdo retornado como base para todas as avaliações e criações dest
    - **Objetivo** — o que o texto precisa fazer (informar, engajar, converter, celebrar, etc.)
    - **Tema** — sobre o que é o texto
    - **Restrições** — limite de caracteres, palavras proibidas, CTA específico, etc.
-2. Consulte as diretrizes: `consultar_marca(tema="tom-de-voz")`
-3. Consulte também a plataforma de marca para contexto de personas e posicionamento: `consultar_marca(tema="plataforma-de-marca")`
-4. Crie o texto aplicando as diretrizes de tom
-5. Estruture o output:
+2. Se canal ou audiência não foram informados, **pergunte antes de criar**. Um texto de Instagram é diferente de um push notification, que é diferente de um email.
+3. Consulte as diretrizes: `consultar_marca(tema="tom-de-voz")`
+4. Consulte também a plataforma de marca para contexto de personas e posicionamento: `consultar_marca(tema="plataforma-de-marca")`
+5. Crie o texto aplicando as diretrizes de tom
+6. Estruture o output:
    - **Texto criado** — versão final
    - **Nota de tom** — breve explicação das escolhas de tom aplicadas (máx. 3 linhas)
-
-**Se o usuário não informar canal ou audiência:** pergunte antes de criar. Um texto de Instagram é diferente de um push notification, que é diferente de um email.
 
 ---
 
@@ -95,3 +94,9 @@ Use o conteúdo retornado como base para todas as avaliações e criações dest
 | Confiante, sem arrogância | Presunçoso, condescendente |
 
 *Esta é uma referência rápida. Sempre consulte o documento oficial via `consultar_marca(tema="tom-de-voz")` para exemplos detalhados e casos específicos.*
+
+---
+
+## Exemplos de uso
+
+Para exemplos de output esperado por modo (Criticar, Ajustar e Criar), consulte `EXEMPLOS.md`.

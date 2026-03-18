@@ -24,19 +24,20 @@ tom-de-voz-cent
 
 **Descrição:**
 ```
-Especialista em redação de marca da Cent. Use para criar, criticar ou ajustar textos alinhados ao tom de voz da marca. Alguns casos de uso, como criar uma legenda para o Instagram, avaliar se um texto está no tom da Cent, ajustar o texto de um email para soar mais humano, etc.
+Especialista em redação de marca da Cent. Use sempre que o usuário quiser criar, revisar, ajustar ou criticar qualquer texto no contexto da Cent — legendas de Instagram, emails, push notifications, copies de app, apresentações, posts. Acione também quando o usuário disser "está no tom?", "deixa mais humano", "parece muito corporativo", "adapta para a Cent" ou qualquer variação de pedido de revisão ou criação de copy de marca.
 ```
 
 ---
 
 **Instruções:**
 
-Cole o conteúdo completo do arquivo `SKILL.md` desta skill, disponível em:
+Abra o link abaixo e copie o conteúdo **a partir de `# Skill: Tom de Voz — Cent`** (ignorando as primeiras linhas do bloco `---` até o segundo `---`). Cole no campo Instruções.
+
 ```
 https://raw.githubusercontent.com/alexwaaa/skills-ruler/main/tom-de-voz/SKILL.md
 ```
 
-Abra o link, selecione tudo (Cmd+A) e cole no campo Instruções.
+> **Por quê ignorar o bloco `---`?** O formulário do Claude já injeta o frontmatter (nome e descrição) automaticamente. Colar o arquivo inteiro gera duplicação — cole apenas o corpo das instruções.
 
 ---
 
